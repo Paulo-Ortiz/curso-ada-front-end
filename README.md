@@ -1,1 +1,1 @@
-## Gravando mudnças no repositório
+## Gravando mudanças no repositório
